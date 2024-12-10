@@ -7,7 +7,7 @@
     
   { "trait_type": "Cargo Capacity(NPOINTS)", "value": "15" },
     { "trait_type": "Flight Speed(KM/H)", "value": "15" },
-    { "trait_type": "Mining Speed(NPOINTS/HR)", "value": "15" },
+    { "trait_type": "Mining Speed(NPOINTS/HR)", "value": "15" }
     
   ]
 }
