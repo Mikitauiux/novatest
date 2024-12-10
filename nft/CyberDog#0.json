@@ -1,7 +1,7 @@
 {
   "name": "СYBERDOG#0",
   "description": "DogforTest",
-  "image": "photo_1_2024-12-10_03-15-28.jpg",
+  "image": "https://raw.githubusercontent.com/Mikitauiux/novatest/refs/heads/main/nft/photo_1_2024-12-10_03-15-28.jpg",
   "attributes": [
     
   { "trait_type": "Cargo Capacity(NPOINTS)", "value": "15" },
