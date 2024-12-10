@@ -1,0 +1,14 @@
+{
+  "name": "СYBERDOG #0,
+  "description": "DogforTest",
+  "image": "https://github.com/Mikitauiux/novatest/blob/c487018acc8b577106aa97ef94ecb517e8658901/photo_1_2024-12-10_03-15-28.jpg",
+  "attributes": [
+    
+  { "trait_type": "Cargo Capacity(NPOINTS)", "value": "15" },
+    { "trait_type": "Flight Speed(KM/H)", "value": "15" },
+    { "trait_type": "Mining Speed(NPOINTS/HR)", "value": "15" },
+    
+  ]
+}
+
+
